@@ -13,6 +13,7 @@ This is a solution to the [Intro section page with interactive dropdown menu Qui
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
+- [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
 ## Overview
@@ -85,7 +86,7 @@ I want to get used to using media queries and to learn more on how to maximise C
 - [GeeksforGeeks](https://www.geeksforgeeks.org/) - This website gives me more explanation on things that I do not understand yet.
 
 
-## Your Detail 
+## Author 
 
 - FullName - [Edelyne Keisha]
 - StudentID - [2602169850]
