@@ -28,12 +28,12 @@ Users should be able to:
 
 ### Screenshot
 
-![](./Lol.jpg)
+![solution](images/Lol.png)
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: (https://github.com/edeliciouso/HCI-intro-section-with-dropdown-navigation)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
@@ -45,7 +45,7 @@ Users should be able to:
 - Flexbox
 - CSS Grid
 - [Styled Components](https://styled-components.com/) - For styles
-- Custom Font [Epilogue](https://fonts.googleapis.com/css2?family=Epilogue:wght@500;700&display=swap)
+- Custom Font - [Epilogue](https://fonts.googleapis.com/css2?family=Epilogue:wght@500;700&display=swap)
 
 
 ### What I learned
