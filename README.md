@@ -76,7 +76,7 @@ I learned how media queries actually work after a long time, and I learned what 
 
 ### Continued development
 
-I want to get used to using media queries and to learn more on how to maximise CSS to its full potential, as well as continuing on to learn JavaScript.
+I want to get used to using media queries and to learn more on how to maximise CSS to its full potential, as well as continuing on to learn JavaScript as I don't understand how to use it, which is why it isn't finished.
 
 
 ### Useful resources
